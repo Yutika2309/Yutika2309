@@ -1,4 +1,4 @@
-## Introcuction
+## Introduction
 
 - 👋 Hi, I’m @Yutika2309
 - 👀 I’m interested in Artificial Intelligence and Backend Development
