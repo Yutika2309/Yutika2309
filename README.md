@@ -6,15 +6,17 @@
 
 ## Tech stack
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+!<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <div style="background-color: #F7931E; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">Scikit-Learn</div>
+    <div style="background-color: #FF6F00; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">TensorFlow</div>
+    <div style="background-color: #EE4C2C; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">PyTorch</div>
+    <div style="background-color: #150458; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">Pandas</div>
+    <div style="background-color: #ff1709; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">Django REST</div>
+    <div style="background-color: #005571; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">FastAPI</div>
+    <div style="background-color: #0db7ed; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">Docker</div>
+    <div style="background-color: #FF9900; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">AWS</div>
+    <div style="background-color: #1C3C3C; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">Langchain</div>
+    <div style="background-color: #FDEE21; color: black; padding: 8px 12px; border-radius: 5px; font-weight: bold;">Hugging Face</div>
+</div>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
